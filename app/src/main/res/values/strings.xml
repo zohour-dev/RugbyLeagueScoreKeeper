@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RugbyLeagueScoreKeeper</string>
+    <string name="team_a">Team A</string>
+    <string name="initial_score">0</string>
+    <string name="score_using_try">Try</string>
+    <string name="score_using_goal_kick">Goal Kick</string>
+    <string name="score_using_penalty">Penalty</string>
+    <string name="score_using_drop_goal">Drop Goal</string>
+    <string name="team_b">Team B</string>
+    <string name="reset_button">Reset</string>
+</resources>
